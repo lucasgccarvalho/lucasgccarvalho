@@ -9,7 +9,7 @@
       src="https://custom-icon-badges.demolab.com/badge/-Linkedin%20-blue?style=for-the-badge&logoColor=white&logo=linkedin-badge-lucas-costa&logoColor=white" 
     />
   </a>
-  <a href="https://drive.google.com/file/d/1kVZJIPEukYzV9-PJUoFuJ4iQ38H_G8N_/view">
+  <a href="https://drive.google.com/file/d/1Y6ToSpgCetjbMtHbKf-94SWdN9wjhoWx/view">
     <img 
       alt="Curriculum" 
       src="https://custom-icon-badges.demolab.com/badge/CURRICULUM-orange?style=for-the-badge&logo=repo&logoColor=white" 
