@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer;Seja+Bem+Vindo!)](https://git.io/typing-svg)
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex;>
   <a href="https://www.linkedin.com/in/lucas-costa-carv/">
     <img 
       alt="LinkedIn" 
