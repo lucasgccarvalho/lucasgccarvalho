@@ -82,8 +82,8 @@
     alt="dotnet" 
     title=".NET"
     width="30px" 
-    style=" border-radius: 20px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg " 
+    style="padding-left: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
 />
 <img 
     align="left" 
