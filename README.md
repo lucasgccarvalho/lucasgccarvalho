@@ -20,7 +20,7 @@
 
 <br>
 
- Olá! Me chamo Lucas Costa Carvalho, tenho 21 anos e sou natural de Conselheiro Lafaiete/MG. Apaixonado por tecnologia, desde novo procurava maneiras de automatizar processos em jogos e outras atividades cotidianas on-line. Esse interesse despertou minha curiosidade por programação e desenvolvimento, e aqui estamos... Atualmente, curso Engenharia de Software na UNIFASAR, onde aprimoro minhas capacidades técnicas e soft skills.
+ Olá! Me chamo Lucas Costa Carvalho, tenho 22 anos e sou natural de Conselheiro Lafaiete/MG. Apaixonado por tecnologia, desde novo procurava maneiras de automatizar processos em jogos e outras atividades cotidianas on-line. Esse interesse despertou minha curiosidade por programação e desenvolvimento, e aqui estamos... Atualmente, curso Engenharia de Software na UNIFASAR, onde aprimoro minhas capacidades técnicas e soft skills.
 
 <div align="center">
   <img width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasgccarvalho&theme=github_dark" />
